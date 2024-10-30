@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using HotelSearch.API.Models;
 using HotelSearch.Application.DTOs;
 
 namespace HotelSearch.Application.Interfaces

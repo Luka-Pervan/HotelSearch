@@ -1,4 +1,4 @@
-﻿namespace HotelSearch.Application.DTOs
+﻿namespace HotelSearch.API.Models
 {
     public class PagedResponse<T>
     {

@@ -6,6 +6,7 @@ using HotelSearch.Application.Interfaces;
 using HotelSearch.Core.Entities;
 using HotelSearch.Core.Helpers;
 using AutoMapper;
+using HotelSearch.API.Models;
 
 namespace HotelSearch.Application.Services
 {
